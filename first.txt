@@ -2,3 +2,4 @@ Gitの練習をしていきます。
 コミット練習
 git remove
 git status
+git diff
