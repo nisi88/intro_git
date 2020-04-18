@@ -1,3 +1,3 @@
-Git‚Ì—ûK‚ð‚µ‚Ä‚¢‚«‚Ü‚·B
-ƒRƒ~ƒbƒg—ûK
+Gitã®ç·´ç¿’ã‚’ã—ã¦ã„ãã¾ã™ã€‚
+ã‚³ãƒŸãƒƒãƒˆç·´ç¿’
 git remove
